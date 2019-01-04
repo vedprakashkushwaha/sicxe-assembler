@@ -4,6 +4,6 @@ and object program of sicxe program.
 
 #how to run this program
 
-write sicxe program in 'sicxe.txt' file, after then compile and execute assember.c file 
+write sicxe program in 'sicxe.txt' file, after then compile and execute assembler.c file 
 
 program will write object program of your instructions in 'object.txt' file.
